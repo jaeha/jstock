@@ -1,0 +1,2 @@
+# jstock
+Stock Manager
